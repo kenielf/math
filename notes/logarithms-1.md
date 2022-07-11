@@ -4,7 +4,7 @@ The logarithm is a mathematical function based on the properties of
 exponentiation, being its inverse. This means that the logarithm of a given
 number $x$ is the exponent to which another number, the base $b$, must be raised to result in $x$.  
 
-The logarithm base 10 ($\logarithm{10}$) is called the decimal or common
+The logarithm base 10 ($\log{10}$) is called the decimal or common
 logarithm and is commonly used in science and engineering.
 
 ### Etymology
