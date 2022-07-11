@@ -9,3 +9,4 @@ content in here is factually 100% correct, but I'll try. PRs are welcome!
 **Writing:**
  - [Github Basic Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
  - [Github LaTeX Markdown](https://github.blog/2022-05-19-math-support-in-markdown/)
+ - [MathJax Short Cheatsheet](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
