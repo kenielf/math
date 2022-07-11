@@ -48,3 +48,10 @@ $$ \log_{a}(M/N) = \log_{a}M - \log_{a}N $$
 the logarithm, keeping the same base and logarithmand.**  
 $$ \log_{a}(M^{k}) = k\log_{a}M $$  
 
+## Exercises
+**1. Calculate the log of $\log_{\sqrt 7}$**(1 \over 49)
+
+## References
+ - [EN: Wikipedia](https://en.wikipedia.org/wiki/Logarithm)
+ - [PT: Significados](https://www.significados.com.br/logaritmo/)
+ - [PT: Brasil Escola](https://brasilescola.uol.com.br/matematica/logaritmo.htm)
