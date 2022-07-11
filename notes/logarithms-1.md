@@ -9,7 +9,7 @@ logarithm and is commonly used in science and engineering.
 
 ### Etymology
 The word `logarithm` is formed by the junction of two greek words: `lógos` and
-`arithmós`, which respectively mean "ratio" and "number".
+`arithmós`, which respectively mean "ratio" and "number".  
 *You can read more about this here: [Why did John Naiper use ratio to coin logarithm](https://hsm.stackexchange.com/questions/13004/why-did-john-napier-use-log%C3%B3s-ratio-to-coin-logarithm)*
 
 ## Properties
