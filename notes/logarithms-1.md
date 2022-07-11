@@ -1,8 +1,6 @@
 # Logarithms - 1
 Throught my notes, this is the notation for the logarithmic function:
-```
-\log_{base}logarithmand = logarithm
-```
+$$ \log_{base}logarithmand = logarithm $$
 
 ## Definition
 The logarithm is a mathematical function based on the properties of
@@ -23,44 +21,30 @@ The word `logarithm` is formed by the junction of two greek words: `lógos` and
 ## Properties
 **1: When the logarithmand is equal to the base, the logarithm will always be
 1.**  
-```math
-\log_{a}a = 1
-```
+$$ \log_{a}a = 1 $$  
 Since $a^{1} = a$.
 
 **2: The log of any base, which logarithmand is equal to 1, will always be 0.**  
-```math
-\log_{a}1 = 0
-```
+$$ \log_{a}1 = 0 $$  
 Since $a^{0} = 1$.
 
 **3: Two logarithms with the same base are equal when the logarithmands are also
 equal.**  
-```math
-\log_{a}b = log_{a}c \Rightarrow b = c
-```
+$$ \log_{a}b = log_{a}c \Rightarrow b = c $$  
 
 **4: A power with base $a$ and exponent equal to log of $b$ in base $a$ is equal
 to $b$.**  
-```math
-a^{\log_{a}b} = b
-```
+$$ a^{\log_{a}b} = b $$  
 
 **5: When the logarithmand is made of a multiplication of numbers, it is
 possible to separate them with the same base for both with a sum.**  
-```math
-\log_{a}MN = \log_{a}M + \log_{a}N
-```
+$$ \log_{a}MN = \log_{a}M + \log_{a}N $$  
 
 **6: When the logarithmand is made of a division of numbers, it is possible to
 separate them with the same base for both with a subtraction.**  
-```math
-\log_{a}(M/N) = \log_{a}M - \log_{a}N
-```
+$$ \log_{a}(M/N) = \log_{a}M - \log_{a}N $$  
 
 **7: The logarithm of a power simplifies itself by multiplying the exponent by
 the logarithm, keeping the same base and logarithmand.**  
-```math
-\log_{a}(M^{k}) = k\log_{a}M
-```
+$$ \log_{a}(M^{k}) = k\log_{a}M $$  
 
