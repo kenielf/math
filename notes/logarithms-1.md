@@ -49,7 +49,7 @@ the logarithm, keeping the same base and logarithmand.**
 $$ \log_{a}(M^{k}) = k\log_{a}M $$  
 
 ## Exercises
-**1. Calculate the log of $\log_{\sqrt 7}(1 \over 49)$**
+**1. Calculate the log of $\log_{\sqrt 7}({1 \over 49})$**
 
 ## References
  - [EN: Wikipedia](https://en.wikipedia.org/wiki/Logarithm)
