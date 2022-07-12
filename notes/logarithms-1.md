@@ -86,6 +86,7 @@ $$pH = log{1 \over H^{+}}$$
  the $pH$ of a solution, in which $H^{+} = 1.0 * 10^{-9}$, is:**  
 
 *Answers [Here](/answers/logarithms-1.md)*
+
 ## References
  - [EN: Wikipedia](https://en.wikipedia.org/wiki/Logarithm)
  - [EN: Britannica](https://www.britannica.com/science/logarithm)
