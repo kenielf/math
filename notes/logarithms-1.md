@@ -53,7 +53,7 @@ multiplied by the logarithm, also keeping the base of the logarithm.**
 $$ \log_{a}\sqrt[n]{b} = {1 \over n} * log_{a}b $$  
 
 **09: The logarithm of a number, with a base to the power of a some number is
-equal to the multiplication of the inverse of the exponent of that base.**
+equal to the multiplication of the inverse of the exponent of that base.**  
 $$ \log_{a^{n}}b = {1 \over n} * log_{a}b $$  
 
 **10: The logarithm of a power simplifies itself by multiplying the exponent by
