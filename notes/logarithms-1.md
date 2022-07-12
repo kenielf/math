@@ -61,7 +61,21 @@ the logarithm, keeping the same base and logarithmand.**
 $$\log_{a}(M^{k}) = k\log_{a}M $$
 
 ## Exercises
-**1. Calculate the logarithm of $\log_{\sqrt 7}({1 \over 49})$**
+**1. Calculate the logarithm of $\log_{\sqrt 7}({1 \over 49})$:**  
+
+**2. if $x^{5} = 1000$ and $b^{3} = 100$, then the logarithm of $x$ in the base
+$b$ is equal to:**  
+ - A) $0.5$
+ - B) $0.9$
+ - C) $1.2$
+ - D) $1.5$
+ - E) $2.0$
+
+**3. The hydrogen potential $pH$ of a solution is defined as the index of
+acidity, neutrality or alcalinity. It is found in the following manner:**  
+$$pH = log{1 \over H^{+}}$$
+**Considering $H^{+}$ as the concentration of hydrogen ions in this solution,
+ the $pH$ of a solution, in which $H^{+} = 1.0 * 10^{-9}$, is:**  
 
 ## References
  - [EN: Wikipedia](https://en.wikipedia.org/wiki/Logarithm)
