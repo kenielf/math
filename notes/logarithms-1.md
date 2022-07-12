@@ -13,6 +13,14 @@ natural logarithm, using Euler's number ($e ≃ 2.71828$) which is commonly used
 for math and physics, and also the binary logarithm ($\log_{2}$) used in
 computer science.
 
+## Existence Condition
+Consider the following logarithm:  
+$$log_{a}b = x$$
+This expression is only defined when the base is greater than zero and different
+from 1 and when the logairthmand is greater than zero, which means:
+$$a > 0 AND a \neq 1$$
+$$b > 0$$
+
 ### Etymology
 The word `logarithm` is formed by the junction of two greek words: `lógos` and
 `arithmós`, which respectively mean "ratio" and "number".  
