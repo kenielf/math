@@ -18,7 +18,7 @@ Consider the following logarithm:
 $$log_{a}b = x$$
 This expression is only defined when the base is greater than zero and different
 from 1 and when the logairthmand is greater than zero, which means:
-$$a > 0   AND   a \neq 1$$
+$$a > 0 \quad\text{AND}\quad a \neq 1$$
 $$b > 0$$
 
 ### Etymology
